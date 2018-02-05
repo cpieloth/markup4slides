@@ -1,0 +1,9 @@
+= README
+
+Generate HTML from AsciiDoc with `slidy`.
+
+- Generate HTML:
+[source,bash]
+-------------
+make html
+-------------
