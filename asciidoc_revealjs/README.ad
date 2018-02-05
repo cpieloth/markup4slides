@@ -1,0 +1,16 @@
+= README
+
+Generate HTML from AsciiDoc with `asciidoctor-revealjs`.
+
+- Install the gems:
+[source,bash]
+-------------
+$ bundle config --local github.https true
+$ bundle --path=.bundle/gems --binstubs=.bundle/.bin
+-------------
+- Generate HTML:
+[source,bash]
+-------------
+make html
+-------------
+- see: http://asciidoctor.org/docs/asciidoctor-revealjs
