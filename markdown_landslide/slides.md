@@ -2,12 +2,12 @@
 
 ---
 
-# Slide 1
+# Overview
 
-- Hello World
+1. Images
 
 ---
 
-# Slide 2
+# Images
 
-- Hello Universe
+![Some image](../resources/image.png)

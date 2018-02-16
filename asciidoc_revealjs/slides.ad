@@ -1,10 +1,10 @@
 = Example slides
 
-== Slide 1
+== Overview
 
-- Hello World
+. Images
 
 
-== Slide 2
+== Images
 
-- Hello Universe
+image::../resources/image.png[Some image]
