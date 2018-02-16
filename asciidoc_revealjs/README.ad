@@ -14,3 +14,11 @@ $ bundle --path=.bundle/gems --binstubs=.bundle/.bin
 make html
 -------------
 - see: http://asciidoctor.org/docs/asciidoctor-revealjs
+
+
+Requirements:
+
+- _Ruby_
+- _RubyGems_
+- _Gem Bundler_
+- `pandoc` (PDF generation)

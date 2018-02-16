@@ -16,3 +16,9 @@ $ pip3 install -r requirements.txt
 make html
 ```
 - see: https://github.com/adamzap/landslide
+
+Requirements:
+
+- _Python_ version 3.x
+- Python's `pip`
+- Python's `virtualenv`

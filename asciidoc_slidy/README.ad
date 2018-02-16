@@ -7,3 +7,8 @@ Generate HTML from AsciiDoc with `slidy`.
 -------------
 make html
 -------------
+
+Requirements:
+
+- `asciidoc`
+- `pandoc` (PDF generation)
